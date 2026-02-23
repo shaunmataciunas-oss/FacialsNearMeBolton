@@ -1,0 +1,27 @@
+
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="100" fill="#F8E6EA"/>
+  <g clip-path="url(#clip0_101_2)">
+    <g style="mix-blend-mode:overlay">
+      <path d="M-100 100h712v50H-100z" fill="#fff" fill-opacity=".2"/>
+      <path d="M-100 231h712v50H-100z" fill="#fff" fill-opacity=".2"/>
+      <path d="M-100 362h712v50H-100z" fill="#fff" fill-opacity=".2"/>
+    </g>
+    <text
+      fill="#222222"
+      xml:space="preserve"
+      style="white-space:pre"
+      font-family="serif"
+      font-size="220"
+      font-weight="bold"
+      letter-spacing="-10"
+    >
+      <tspan x="110" y="325">EB</tspan>
+    </text>
+  </g>
+  <defs>
+    <clipPath id="clip0_101_2">
+      <rect width="512" height="512" rx="100" fill="#fff"/>
+    </clipPath>
+  </defs>
+</svg>

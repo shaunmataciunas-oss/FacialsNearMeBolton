@@ -1,2 +1,0 @@
-# FacialsNearMeBolton
-facialsnearmebolton.co.uk
